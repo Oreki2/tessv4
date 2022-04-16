@@ -14,23 +14,23 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '4AD2E985D2', // Kalau habis beli sendiri
+	'https://zenzapi.xyz': 'd1da790d19', // Kalau habis beli sendiri
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
+global.owner = ['6282136421665','6285601700562']
+global.premium = ['6281575886399','6285601700562']
+global.ownernomer = '6282136421665'
+global.ownername = 'himitsu'
+global.botname = 'oreki_botz'
+global.footer = 'oreki_botz'
 global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.email = 'orekibotz@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.packname = '©lu nyolong gw bantai :v'
+global.author = 'by oreki_botz'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
