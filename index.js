@@ -136,9 +136,36 @@ async function startchika() {
                 }
 
                 if (anu.action == 'add') {
-                    chika.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `Welcome To ${metadata.subject} @${num.split("@")[0]}` })
+                    chika.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `${metadata.subject} 
+Halo
+@${num.split("@")[0]}
+◢▃▃▃▃◤▔▔▔◥▃▃▃▃◣
+    *✺�WELCOME �✺* 
+◥▔▔▔▔◣▃▃▃◢▔▔▔▔◤
+
+┏━━❖ NEW MEMBER INTRO
+┃❏ ɴᴀᴍᴀ:
+┃❏ ᴜᴍᴜʀ:
+┃❏ ᴋᴇʟᴀs:
+┃❏ ɢᴇɴᴅᴇʀ:
+┃❏ ᴀsᴋoᴛ:
+┣━━━━❖ *NOTE ↓↓↓*
+┃❏ Jangan Lupa Untuk Membaca
+┃❏ Dan Mematuhi Rules Yang Ada
+┗═════ ━ ━ ━ ━
+
+╔═════ஓ๑♡๑ஓ═════╗
+          *Semoga Betah!*
+╚═════ஓ๑♡๑ஓ═════╝` })
                 } else if (anu.action == 'remove') {
-                    chika.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `@${num.split("@")[0]} Leaving To ${metadata.subject}` })
+                    chika.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `
+Sayonara👋 @${num.split("@")[0]} 
+Keluar Dari 
+${metadata.subject}
+
+Gw Doain Semoga Lu Selalu Jdi Beban Dikehidupan Lu Yg Sekarang🗿
+Dan Selamat Menikmatinya🤙🗿
+` })
                 }
             }
         } catch (err) {
