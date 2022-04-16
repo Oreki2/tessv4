@@ -21,16 +21,16 @@ global.APIKeys = {
 global.owner = ['6282136421665','6285601700562']
 global.premium = ['6281575886399','6285601700562']
 global.ownernomer = '6282136421665'
-global.ownername = 'himitsu'
-global.botname = 'oreki_botz'
-global.footer = 'oreki_botz'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'orekibotz@gmail.com'
+global.ownername = 'saeful'
+global.botname = 'Oreki_botz-Md'
+global.footer = 'Oreki_botz'
+global.ig = 'https://instagram.com'
+global.email = 'kadekka321@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = '©lu nyolong gw bantai :v'
-global.author = 'by oreki_botz'
+global.packname = 'lu nyolong gw bunuh'
+global.author = '©By Oreki_botz'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -42,12 +42,12 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: ' *Sabar ya dek, semua itu butuh proses......* ',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 10,
     monayawal: 1000
 }
    global.rpg = {
